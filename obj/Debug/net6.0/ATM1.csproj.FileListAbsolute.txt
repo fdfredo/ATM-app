@@ -1,0 +1,15 @@
+C:\Users\hp user\source\repos\ATM1\ATM1\bin\Debug\net6.0\ATM1.exe
+C:\Users\hp user\source\repos\ATM1\ATM1\bin\Debug\net6.0\ATM1.deps.json
+C:\Users\hp user\source\repos\ATM1\ATM1\bin\Debug\net6.0\ATM1.runtimeconfig.json
+C:\Users\hp user\source\repos\ATM1\ATM1\bin\Debug\net6.0\ATM1.dll
+C:\Users\hp user\source\repos\ATM1\ATM1\bin\Debug\net6.0\ATM1.pdb
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.csproj.AssemblyReference.cache
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.AssemblyInfoInputs.cache
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.AssemblyInfo.cs
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.csproj.CoreCompileInputs.cache
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.dll
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\refint\ATM1.dll
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.pdb
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ATM1.genruntimeconfig.cache
+C:\Users\hp user\source\repos\ATM1\ATM1\obj\Debug\net6.0\ref\ATM1.dll
